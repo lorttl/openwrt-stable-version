@@ -16,22 +16,11 @@ lean稳定源码版本，内核为**4.19**版，分为***自用版（openwrt-ZY�
 
 > `ip：192.168.1.1 密码：password`
 
-## 固件下载
+编译老版本的找这个： https://github.com/coolsnowwolf/openwrt.git
 
-### 点击[Actions](https://github.com/firkerword/openwrt-stable-version/actions) 或者[Releases](https://github.com/firkerword/openwrt-stable-version/releases) 选择需要的版本
-![avatar](https://raw.githubusercontent.com/firkerword/openwrt-stable-version/main/boc/c.png)
+和openwrt一样的版本都是19.07
 
-## 固件截图：
-### 精简版固件截图：
-![avatar](https://raw.githubusercontent.com/firkerword/openwrt-stable-version/main/boc/a.png)
-### 自用版固件截图：
-![avatar](https://raw.githubusercontent.com/firkerword/openwrt-stable-version/main/boc/b.png)
-
-### 其他
-
-联系：[Tg频道订阅](https://t.me/zhinengchaoshenzhe)
-
-追新版云编译地址：[https://github.com/firker/openwrt-Exclusive](https://github.com/firker/openwrt-Exclusive)
+这个lede用的是openwrt的snapshot版本
 
 
 
